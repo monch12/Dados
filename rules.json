@@ -1,68 +1,13 @@
 [
-  {
-    "id": 1,
-    "name": "Escalera",
-    "description": "Seis dados consecutivos (1-2-3-4-5-6)",
-    "points": 7
-  },
-  {
-    "id": 2,
-    "name": "Sexteto",
-    "description": "Seis dados iguales",
-    "points": 6
-  },
-  {
-    "id": 3,
-    "name": "Poker con par",
-    "description": "Cuatro dados iguales y dos dados iguales",
-    "points": 6
-  },
-  {
-    "id": 4,
-    "name": "Quinteto",
-    "description": "Cinco dados iguales",
-    "points": 5
-  },
-  {
-    "id": 5,
-    "name": "Doble tercia",
-    "description": "Dos grupos de tres dados iguales",
-    "points": 5
-  },
-  {
-    "id": 6,
-    "name": "Poker",
-    "description": "Cuatro dados iguales",
-    "points": 4
-  },
-  {
-    "id": 7,
-    "name": "Triple par",
-    "description": "Tres pares de dados iguales",
-    "points": 4
-  },
-  {
-    "id": 8,
-    "name": "Full House",
-    "description": "Tres dados iguales y dos dados iguales",
-    "points": 3
-  },
-  {
-    "id": 9,
-    "name": "Trío",
-    "description": "Tres dados iguales",
-    "points": 2
-  },
-  {
-    "id": 10,
-    "name": "Doble par",
-    "description": "Dos pares de dados iguales",
-    "points": 2
-  },
-  {
-    "id": 11,
-    "name": "Par",
-    "description": "Dos dados iguales",
-    "points": 1
-  }
+  { "id": 1, "name": "Par", "description": "Dos dados iguales", "points": 1 },
+  { "id": 2, "name": "Doble Par", "description": "Dos pares distintos", "points": 2 },
+  { "id": 3, "name": "Tercia", "description": "Tres dados iguales", "points": 3 },
+  { "id": 4, "name": "Doble Tercia", "description": "Dos tercias", "points": 6 },
+  { "id": 5, "name": "Full", "description": "Tercia + Par", "points": 4 },
+  { "id": 6, "name": "Póker", "description": "Cuatro dados iguales", "points": 4 },
+  { "id": 7, "name": "Par + Póker", "description": "Póker más un par", "points": 5 },
+  { "id": 8, "name": "Quintilla", "description": "Cinco dados iguales", "points": 5 },
+  { "id": 9, "name": "Sextilla", "description": "Seis dados iguales", "points": 6 },
+  { "id": 10, "name": "Escalera 1-6", "description": "1,2,3,4,5,6", "points": 7 },
+  { "id": 11, "name": "Triple Par", "description": "Tres pares distintos", "points": 3 }
 ]
